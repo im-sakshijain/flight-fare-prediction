@@ -1,1 +1,1 @@
-# flight-fare-prediction
+# INeuron-Flight-Fare-Prediction
